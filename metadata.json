@@ -1,0 +1,6 @@
+{
+  "name": "Automotive Parts Technical Datasheet Generator",
+  "description": "یک ابزار حرفه‌ای برای ایجاد، شخصی‌سازی و دانلود شناسنامه فنی قطعات خودرو به صورت فایل اکسل استاندارد و فرم‌های خام صنعتی.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
